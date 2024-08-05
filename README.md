@@ -1,2 +1,2 @@
 # RazerSnapTap
-Razer Snap Tap for all keyboards using autohutkey
+Razer Snap Tap script for all keyboards using autohutkey
